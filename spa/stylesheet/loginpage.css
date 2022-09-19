@@ -1,0 +1,50 @@
+#body
+	{
+		background: #EEEEEE;
+	}
+img
+	{
+		position: center;
+		margin-left: 20%;
+		width: 60%;
+	}
+	.navbar
+	{
+		background-color: navy;
+	}
+	#brand
+	{
+		color: white;
+	}
+	ul li a
+	{
+		color: white;
+	}
+	#button 
+	{
+		background-color:navy;
+	}
+	#bar
+	{
+		background-color: white;
+	}
+	.footer 
+	{
+		position: fixed;
+		padding: 5px;
+		left: 0;
+		bottom: 0;
+		width: 100%;
+		background-color: navy;
+		color: white;
+		text-align: center;
+		font-size: 130%;
+	}
+	#login
+	{
+
+		height: 150px;
+		width: 150px;
+		border:1px solid #333; 
+		padding:5px;
+	}

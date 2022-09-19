@@ -1,0 +1,84 @@
+.navbar
+	{
+		height: 50px;
+		padding-bottom: 1px;
+		border-bottom: 2px solid #087ec2;
+	}
+		#collegelogo
+	{
+		margin-top: -11px;
+		margin-left: -5px;
+		height: 45px;
+	}
+		#header_lable
+	{
+		font-size:20px; 
+		color:#000; 
+		font-weight:bold; 
+		margin-top: -4px;
+		float:right;
+	}
+	.navbar-header
+	{
+		margin-left: -13px;
+	}
+	.page-header
+	{
+		vertical-align: middle;
+		margin: 10px ;
+		padding: 0;
+		border-bottom: none;
+	}
+	#breadcrumb 
+	{
+		background: none;
+	}
+		.footer 
+	{
+		position: bottom;
+		bottom: 0;
+		width: 100%;
+		text-align: center;
+		background: #e8e8e8;
+		border-top: 1px solid #d2d6de;
+		color: #087ec2;
+		padding: 15px;
+	}
+	.card-header h6 i 
+	{
+		margin-right: 8px;
+	}
+
+	.card-header h6
+	{
+		font-size: 16px;
+		font-weight: 700;
+		display: inline-block;
+		color:#057EC5;
+	}
+	h6 
+	{
+		font-size: 20px;
+		font-weight: 700;
+		display: inline-block;
+		color:#057EC5;
+	}
+	.card-title-new
+	{
+		border-bottom: 1px dotted #000000; 
+		padding-bottom: 5px; 
+		color:#057EC5; 
+		font-size:15px;
+	}
+	#navtabs
+	{
+		font-weight: bold;
+	}
+	#cnavtabs
+	{
+		color: dimgrey;
+	}
+	.card-footer
+	{
+		position: relative;
+	}
